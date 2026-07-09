@@ -11,3 +11,5 @@ A simple Fruit website built with HTML,Tailwind CSS,DaisyUI and JavaScript
 - Tailwind CSS
 - DaisyUI
 - JavaScript(DOM)
+#### Live Link
+https://aananya99.github.io/dom-fruits-website/
