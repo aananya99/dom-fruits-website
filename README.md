@@ -4,7 +4,7 @@ A simple Fruit website built with HTML,Tailwind CSS,DaisyUI and JavaScript
 - Display Fruit cards
 - Add items to purchase history
 - Update total amount dynamically
-- Dom traversing
+- Dom traversing,Event Delegation
 - Dynamic Dom manipulation
 #### Technologies
 - HTML5
